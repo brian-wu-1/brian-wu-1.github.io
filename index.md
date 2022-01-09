@@ -1,10 +1,9 @@
-## Welcome to GitHub Pages
+## Brian Wu
 
-You can use the [editor on GitHub](https://github.com/brian-wu-1/brian-wu-1.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Hello, I'm Brian, a second year mechanical engineering student at UCLA. 
+Here is a portfolio of projects I have been involved with.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+## Projects
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
